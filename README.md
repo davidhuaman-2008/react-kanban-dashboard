@@ -480,14 +480,14 @@ Luego:
 ## 🎨 Capturas
 
 ### Dashboard
-![Dashboard](docs/dashboard.png)
+<img width="1901" height="892" alt="image" src="https://github.com/user-attachments/assets/40d873e2-f205-4a5d-b117-5affba059301" />
 
 ### Empresas
-![Empresas](docs/empresas.png)
+<img width="1896" height="598" alt="image" src="https://github.com/user-attachments/assets/48a76ee3-b9d6-40c2-bbd6-54c7ca7a1628" />
 
 ### Inventario
-![Inventario](docs/inventario.png)
+<img width="1912" height="877" alt="image" src="https://github.com/user-attachments/assets/5aa770f0-81f4-489d-99f0-301ea487d379" />
 
 ### Proyectos
-![Proyectos](docs/proyectos.png)
+<img width="1876" height="637" alt="image" src="https://github.com/user-attachments/assets/ee2d17f3-cd15-4b44-98c2-287f6a947aa3" />
 ```
